@@ -1,0 +1,28 @@
+.banner {
+  height: 520px;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  padding-left: 200px;
+}
+
+.container h1 {
+  color: white;
+}
+
+.container p {
+  color: white;
+  margin-bottom: 55px;
+}
+
+.container a {
+  color: white;
+  padding: 15px 30px;
+  background-color: rgb(0, 208, 255);
+  margin-top: 20px;
+  border-radius: 7px;
+}
+
+.container a:hover {
+  color: rgb(55, 5, 68);
+}
